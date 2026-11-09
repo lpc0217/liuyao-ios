@@ -1,0 +1,14 @@
+{
+  "originHash" : "f3567599d3d6eabe76ae58cb153db8187d364a8655b6108796577e3696da68f2",
+  "pins" : [
+    {
+      "identity" : "lunar-swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/6tail/lunar-swift.git",
+      "state" : {
+        "revision" : "2397017c78a3a1adcb1166952aba4069955a41d1"
+      }
+    }
+  ],
+  "version" : 3
+}
